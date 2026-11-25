@@ -1,0 +1,2 @@
+# Sign-Language-Alphabet-Recognizer
+FUNDAMENTALS OF ARTIFICIAL INTELLIGENCE
